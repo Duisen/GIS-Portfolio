@@ -1,0 +1,1 @@
+SELECT UpdateGeometrySRID('test_with_cad', 'geom', 32643);
